@@ -21,22 +21,22 @@ const Navigasi = () => {
             <Offcanvas.Body className="offCanvas-body">
               <div className="offCanvas-navigation">
                 <div>
-                  <Link className="offCanvas-a" to="/web-kelas-f/home">
+                  <Link className="offCanvas-a" to="/">
                     Home
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/web-kelas-f/list-tugas">
+                  <Link className="offCanvas-a" to="/list-tugas">
                     List Tugas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/web-kelas-f/jadwal-kelas">
+                  <Link className="offCanvas-a" to="/jadwal-kelas">
                     Jadwal Kelas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/web-kelas-f/daftar-hadir">
+                  <Link className="offCanvas-a" to="/daftar-hadir">
                     Daftar Hadir
                   </Link>
                 </div>
