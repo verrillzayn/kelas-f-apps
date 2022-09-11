@@ -26,17 +26,17 @@ const Navigasi = () => {
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/kelas-f-apps/list-tugas">
+                  <Link className="offCanvas-a" to="/list-tugas">
                     List Tugas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/kelas-f-apps/jadwal-kelas">
+                  <Link className="offCanvas-a" to="/jadwal-kelas">
                     Jadwal Kelas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/kelas-f-apps/daftar-hadir">
+                  <Link className="offCanvas-a" to="/daftar-hadir">
                     Daftar Hadir
                   </Link>
                 </div>
