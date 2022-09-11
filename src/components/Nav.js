@@ -10,7 +10,7 @@ const Navigasi = () => {
     <>
       <Navbar fixed="top" expand="lg" className="navbar">
         <Container className="navbar-container">
-          <Navbar.Brand className="navbar-brand" href="#home">
+          <Navbar.Brand className="navbar-brand" href="/kelas-f-apps">
             MKS Kelas F
           </Navbar.Brand>
           <Navbar.Toggle className="toggle-btn" aria-controls="offcanvasNavbar" />
@@ -21,22 +21,22 @@ const Navigasi = () => {
             <Offcanvas.Body className="offCanvas-body">
               <div className="offCanvas-navigation">
                 <div>
-                  <Link className="offCanvas-a" to="/">
+                  <Link className="offCanvas-a" to="/kelas-f-apps">
                     Home
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/list-tugas">
+                  <Link className="offCanvas-a" to="/kelas-f-apps/list-tugas">
                     List Tugas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/jadwal-kelas">
+                  <Link className="offCanvas-a" to="/kelas-f-apps/jadwal-kelas">
                     Jadwal Kelas
                   </Link>
                 </div>
                 <div>
-                  <Link className="offCanvas-a" to="/daftar-hadir">
+                  <Link className="offCanvas-a" to="/kelas-f-apps/daftar-hadir">
                     Daftar Hadir
                   </Link>
                 </div>

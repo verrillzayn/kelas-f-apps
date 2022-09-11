@@ -17,10 +17,10 @@ function App() {
       <Navigasi />
       <Content />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/jadwal-kelas" element={<Jadwal />} />
-        <Route path="/list-tugas" element={<ListTugas />} />
-        <Route path="/daftar-hadir" element={<Absen />} />
+        <Route path="/kelas-f-apps" element={<Home />} />
+        <Route path="/kelas-f-apps/jadwal-kelas" element={<Jadwal />} />
+        <Route path="/kelas-f-apps/list-tugas" element={<ListTugas />} />
+        <Route path="/kelas-f-apps/daftar-hadir" element={<Absen />} />
       </Routes>
       <Footer />
     </div>
