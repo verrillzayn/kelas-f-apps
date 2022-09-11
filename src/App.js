@@ -17,7 +17,7 @@ function App() {
       <Navigasi />
       <Content />
       <Routes>
-        <Route path="/kelas-f-apps" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/jadwal-kelas" element={<Jadwal />} />
         <Route path="/list-tugas" element={<ListTugas />} />
         <Route path="/daftar-hadir" element={<Absen />} />

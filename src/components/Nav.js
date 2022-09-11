@@ -21,7 +21,7 @@ const Navigasi = () => {
             <Offcanvas.Body className="offCanvas-body">
               <div className="offCanvas-navigation">
                 <div>
-                  <Link className="offCanvas-a" to="/kelas-f-apps">
+                  <Link className="offCanvas-a" to="/">
                     Home
                   </Link>
                 </div>
