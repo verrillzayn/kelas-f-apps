@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kelas-f-apps/static/css/main.718f271c.css",
-    "main.js": "/kelas-f-apps/static/js/main.b316fdaf.js",
+    "main.js": "/kelas-f-apps/static/js/main.e29e142b.js",
     "static/media/background.png": "/kelas-f-apps/static/media/background.22bc8349ce24cae7f787.png",
     "index.html": "/kelas-f-apps/index.html",
     "main.718f271c.css.map": "/kelas-f-apps/static/css/main.718f271c.css.map",
-    "main.b316fdaf.js.map": "/kelas-f-apps/static/js/main.b316fdaf.js.map"
+    "main.e29e142b.js.map": "/kelas-f-apps/static/js/main.e29e142b.js.map"
   },
   "entrypoints": [
     "static/css/main.718f271c.css",
-    "static/js/main.b316fdaf.js"
+    "static/js/main.e29e142b.js"
   ]
 }
