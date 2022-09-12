@@ -209,6 +209,10 @@ $grid-breakpoints: (
   }
   .ke2 {
     box-shadow: 10px 10px 0px 1px rgba(89, 255, 125, 0.81), 10px 10px 0px 3px #000;
+    border: 2px solid black;
+    .kamis {
+      grid-row-gap: 4px;
+    }
   }
   .ke3 {
     box-shadow: 10px 10px 0px 1px rgba(235, 255, 80, 0.81), 10px 10px 0px 3px #000;
@@ -219,6 +223,7 @@ $grid-breakpoints: (
   .ke5 {
     box-shadow: 10px 10px 0px 1px rgba(255, 121, 246, 0.81), 10px 10px 0px 3px #000;
     .parent {
+      border: 2px solid black;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       grid-template-rows: 0.5fr repeat(4, 1fr);
@@ -348,6 +353,15 @@ $grid-breakpoints: (
   font-weight: 800;
 }
 .div15 {
+  font-weight: 800;
+}
+.div16 {
+  font-weight: 800;
+}
+.div17 {
+  font-weight: 800;
+}
+.div18 {
   font-weight: 800;
 }
 

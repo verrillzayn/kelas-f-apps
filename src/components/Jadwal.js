@@ -18,14 +18,11 @@ const Jadwal = () => {
             <div class="div7">14.01 - 15.00</div>
             <div class="div8">Ilmu Fiqh</div>
             <div class="div9">2.5</div>
-            <div class="div10">15.01 - 16.00</div>
-            <div class="div11">Ulumul Hadits</div>
-            <div class="div12">2.5</div>
           </div>
         </div>`,
           `<div class="kotak-hari ke2">
           <h1 class="hari">kamis</h1>
-          <div class="parent">
+          <div class="parent kamis">
             <div class="div1">Jam</div>
             <div class="div2">Matkul</div>
             <div class="div3">Ruang</div>
@@ -38,6 +35,12 @@ const Jadwal = () => {
             <div class="div10">09.01 - 10.00</div>
             <div class="div11">Bhs.Arab</div>
             <div class="div12">2.5</div>
+            <div class="div13">10.01 - 11.00</div>
+            <div class="div14">Ulumul Hadits</div>
+            <div class="div15">T.K</div>
+            <div class="div16">14.01 - 15.00</div>
+            <div class="div17">Ilmu Ekobis</div>
+            <div class="div18">T.K</div>
           </div>
         </div>`,
           `<div class="kotak-hari ke3">
@@ -49,15 +52,12 @@ const Jadwal = () => {
             <div class="div4">10.00 - 11.00</div>
             <div class="div5">Ilmu Tauhid</div>
             <div class="div6">2.4</div>
-            <div class="div7">13.00 - 14.00</div>
-            <div class="div8">Ilmu Ekobis</div>
+            <div class="div7">14.01 - 15.00</div>
+            <div class="div8">Pancasila</div>
             <div class="div9">2.1</div>
-            <div class="div10">14.01 - 15.00</div>
-            <div class="div11">Pancasila</div>
+            <div class="div10">15.01 - 16.00</div>
+            <div class="div11">Bhs Inggris</div>
             <div class="div12">2.1</div>
-            <div class="div13">15.01 - 16.00</div>
-            <div class="div14">Bhs.Inggris</div>
-            <div class="div15">2.1</div>
           </div>`,
           `<div class="kotak-hari ke4">
           <h1 class="hari">Sabtu</h1>
