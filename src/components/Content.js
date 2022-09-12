@@ -45,7 +45,7 @@ const Content = () => {
     <>
       <div className="container-content">
         <div className="container-img">
-          <img ref={ref} className="sun-img" src="../public/poto/sun1.png" alt="asd" />
+          <img ref={ref} className="sun-img" src={sun} alt="asd" />
           <img ref={ref} className="img1" src={awan} alt="mountain" />
           <img ref={ref} className="img2" src={gunung1} alt="mountain" />
           <img ref={ref} className="img3" src={gunung2} alt="mountain" />
